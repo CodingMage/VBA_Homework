@@ -1,4 +1,3 @@
-Attribute VB_Name = "Module1"
 Sub Stock_Stats()
     
     'Populate the cell titles
